@@ -4,4 +4,3 @@
 <p align="center"> <a href="https://twitter.com/youngziraq" target="blank"><img src="https://img.shields.io/twitter/follow/youngziraq?logo=twitter&style=for-the-badge" alt="youngziraq" /></a> </p>
 
 - 🌱 Always learning.
-- 👨‍💻 All of my projects are available at [https://ziraqyoung.github.io/projects/](https://ziraqyoung.github.io/projects/)
